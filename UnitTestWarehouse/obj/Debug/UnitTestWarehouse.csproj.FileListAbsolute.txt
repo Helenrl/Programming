@@ -1,0 +1,13 @@
+c:\users\ricli\documents\visual studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\UnitTestWarehouse.dll
+c:\users\ricli\documents\visual studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\UnitTestWarehouse.pdb
+c:\users\ricli\documents\visual studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\Warehouse-lly.dll
+c:\users\ricli\documents\visual studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\Warehouse-lly.pdb
+c:\users\ricli\documents\visual studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\obj\Debug\UnitTestWarehouse.csprojResolveAssemblyReference.cache
+c:\users\ricli\documents\visual studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\obj\Debug\UnitTestWarehouse.dll
+c:\users\ricli\documents\visual studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\obj\Debug\UnitTestWarehouse.pdb
+C:\Users\ricli\Documents\Visual Studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\Warehouseitems1.txt
+C:\Users\ricli\Documents\Visual Studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\Warehouseitems2.txt
+C:\Users\ricli\Documents\Visual Studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\Items.txt
+C:\Users\ricli\Documents\Visual Studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\TestHarness.pdb
+C:\Users\ricli\Documents\Visual Studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\TestHarness.dll
+C:\Users\ricli\documents\visual studio 2013\Projects\Warehouse-lly\UnitTestWarehouse\bin\Debug\Z4_Locations.txt
